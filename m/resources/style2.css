@@ -1,0 +1,85 @@
+.form_input {
+    border: 0;
+    width: 460px;
+    background-color: lightgray;
+    border-bottom: 1px solid blue;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top: 1px solid blue;
+    border-left: 1px solid blue;
+}
+
+.form_main {
+    position: relative;
+    top: 10px;
+    left: 2.5%;
+}
+
+.form_submit {
+    background: white;
+    border: 1px solid blue;
+}
+
+.footer_main p {
+	font-size: 16pt;
+	left: 20px;
+	position: relative;
+	font-weight: bolder;
+}
+
+.fast_servico {
+	width: 95%;
+	position: relative;
+	left: 2.5%;
+}
+
+.servico_img {
+	width: 100%;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.fast_servico_div {
+    background-color: rgba(250,250,250,0.9);
+    padding-bottom: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 20px;
+}
+
+.servico_h2 {
+	position: absolute;
+	margin-top: -40px;
+	color: white;
+	background-color: rgba(220,220,220,0.7);
+	width: 100%;
+	text-align: center;
+}
+
+.servico_p {
+	width: 95%;
+	left: 2.5%;
+	position: relative;
+}
+
+.servico_p:first-letter {
+	font-weight: bolder;
+	font-size: 16pt;
+}
+
+.fast_contato_div {
+width: 85%;
+left: 10%;
+position: relative;
+font-size: 20pt;
+font-weight: bolder;
+color: black;
+text-decoration: underline;
+}
+
+#map {
+	width: 100%;
+	border-radius: 5px;
+}

@@ -1,0 +1,55 @@
+.local_main {
+	width: 100%;
+	background-color: rgba(180,180,180,0.7);
+	display: flex;
+	font-family: 'Caviar Dreams';
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.local_left {
+	width: 32%;
+	float: left;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	background-color: rgba(0,139,139,0.5);
+	margin-left: auto;
+	font-size: 16pt;
+	font-weight: bolder;
+}
+
+.local_info {
+	margin-left: 20px;
+}
+
+.local_right {
+	width: 64%;
+	float: left;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	background-color: rgba(0,139,139,0.5);
+	margin-right: auto;
+}
+
+#form_contact_main {
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.local_map {
+	width: 100%;
+	
+}
+
+#map {
+	border-top: 1px solid rgba(220,200,200,0.5);
+	width: 90%;
+	height: 180px;
+	margin-top: -20px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+
+	

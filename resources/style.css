@@ -1,0 +1,328 @@
+/* 
+    Criado por Alberto em 09/07/2017
+    Motivo: Criação do site "Serralheria Mancini"
+*/
+
+.empresa_txt p {
+	background-color: lightgrey;
+	color: black;
+	font-size: 20pt;
+	font-weight: normal;
+	font-family: 'Caviar Dreams';
+	text-indent: 2em;
+}
+	
+.empresa_txt p:first-letter {
+	font-weight: bolder;
+}
+	
+	
+	
+
+body {
+    margin: 0 auto;
+    background-color: rgb(240,240,240);
+}
+
+.menu_main {
+	background-color:	#7FFFD4;;
+}
+
+#contato_main {
+    display: flex;
+	color: black;
+}
+
+#contato_tel {
+    width: 50%;
+    text-indent: 10%;
+    float:left;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#logo {
+    width: 99%;
+    display: flex;
+}
+
+#logo_img {
+    width: 50%;
+    text-indent: 10%;
+    font-size: 25px;
+}
+
+#logo_btn {
+        width: 30%;
+        height: 5%;
+    font-size: 25px;
+    vertical-align: middle;
+    line-height: 50%;
+    margin-top: 60px;
+}
+
+.logo_btn {
+    background-color: rgb(0,139,139); /* Green */
+    border: none;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    font-size: 16px;
+    border-radius: 4px;
+    line-height: 50%;
+	width: 400px;
+	height: 75px;
+	text-indent: 1em;
+	font-weight: bold;
+	
+}
+
+.logo_btn:hover {
+    background-color: rgb(0,128,128); /* Green */
+}
+
+#contato_tel img {
+    top: 1px;
+}
+
+#contato_fb img {
+    top: 3px;
+}
+
+#contato_fb {
+    width: 50%;
+    text-align: center;
+    float:left;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#main a, #main a:hover, #main a:visited ,#main a:active {
+    color: #000;
+    text-decoration: none;
+}
+
+.menu_btn {
+    width: calc(100% / 6);
+    height: 50px;
+    background-color: rgb(0,139,139); 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 22px;
+    line-height: 50%;
+    text-transform: uppercase;
+}
+
+.menu_btn:hover {
+    width: calc(100% / 6);
+    height: 50px;
+    background-color: rgb(0,128,128); /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 22px;
+    line-height: 50%;
+    text-transform: uppercase;
+}
+
+.fast_main {
+margin-top: 20px;	
+display: flex;
+width: 90%;
+flex: auto;
+margin-left: auto;
+margin-right: auto;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+
+.fast_div {
+	width: 26%;
+	margin:0 auto;
+	float:left;
+	background-color: #dcdcdc;
+	border-radius: 5px;
+	height: 430px;
+}
+
+.fast_img img {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	width: 100%;
+	height: 250px;
+}
+
+.fast_img h2 { 
+   position: absolute; 
+   margin-top: -40px;
+   width: 23.4%;
+   color: white;
+   background-color: black;
+   opacity: 0.9;
+      text-transform: uppercase;
+	  font-family: 'Caviar Dreams';
+	  text-align: center;
+}
+
+.fast_img h2 span { 
+   color: white; 
+   font: bold 24px/45px 'Caviar Dreams', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+p {
+	font-family: 'Caviar Dreams',sans-serif;
+}
+
+.fast_txt p {
+		text-indent: 2em;
+}
+
+.fast_txt p:first-letter {
+	font-weight: bold;
+
+}
+
+@font-face {
+	font-family: 'Caviar Dreams';
+	src: url('./font/CaviarDreams.eot');
+	src: url('./font/CaviarDreams.eot?#iefix') format('embedded-opentype'),
+		url('./font/CaviarDreams.woff') format('woff'),
+		url('./font/CaviarDreams.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fast_btn {
+	align-items: right;
+	vertical-align: bottom;
+}
+
+.fast_btn button {
+width: 75px;
+height: 25px;	
+background-color: rgb(0,139,139);
+float: right;
+margin: 10px;
+border: 0px solid white;
+border-radius: 5px;	
+font-weight: bolder;
+text-align: center;
+}
+
+.fast_btn button:hover {
+width: 75px;
+height: 25px;	
+background-color: rgb(0,128,128);
+float: right;
+margin: 10px;
+border: 0px solid white;
+border-radius: 5px;	
+font-weight: bolder;	
+}
+
+#form_contact_main {
+	width: 100%;
+	background-color: rgb(0,139,139);
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 0px;
+}
+
+#form_contact_main table {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.form_contact_input {
+	width: 100%;
+	border: 0;
+	background-color: #ddd;
+	height: 40px;
+	border-bottom: 2px solid white;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.form_contact_input:hover {
+	border-bottom: 2px solid blue;
+}
+
+.form_maior {
+	height: 100px;
+}
+
+.form_contact_submit {
+	border: 2px solid white;
+	border-radius: 3px;
+	background-color: #ddd;
+	width: 10%;
+	height: 50px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+}	
+
+.form_contact_submit:hover {
+	color: rgb(0,139,139);
+	border: 2px solid blue;
+}	
+
+.logo img {
+	margin-left: 25px;
+	margin-top: 25px;	
+}
+
+.footer_main { width:90%; display: flex; height: 500px; }
+
+.footer_side { width: 48%; 	background-color:	#7FFFD4; }
+.footer_left { float: left; padding-left: calc(2% + 0.01px); }
+.footer_right { float:right; padding-right: calc(2%); }
+
+
+
+.footer_fim { bottom: 0px; }
+.footer_txt_verdinho {color: #black;font-weight:bolder;height: inherit;}
+.footer_txt_branco p { color: white;
+    font-weight: bolder;
+    font-size: larger;
+   }
+
+/*
+ *  STYLE 4
+ */
+
+#style-4::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+	border: 2px solid #555555;
+}
+
+
+	
+	
+	
+

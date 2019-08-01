@@ -1,0 +1,13 @@
+<div id="empresa" style=" background-color: lightgrey; color: black; font-size: 16pt;  font-weight: normal;	font-family: 'Caviar Dreams'; text-indent: 2em; width: 90%; margin-left: auto; margin-right: auto; margin-top: 100px; padding-top: 20px; border-top-left-radius: 25px; border-top-right-radius: 25px; padding-bottom: 10px; margin-bottom: 20px; border-bottom: 3px solid black;">
+<p style="width: 95%; margin: 0 auto; margin-top: 10px;"><span style="font-weight: bolder;">N</span>osso diferencial é estar a mais de XX anos no mercado, sempre buscando oferecer os melhores produtos, atrelados com os melhores preços e os menores prazos de entrega, isso faz da Serralheria Mancini ser a melhor serralheria de Sorocaba e região.</p>
+
+<p style="width: 95%; margin: 0 auto; margin-top: 10px;"><span style="font-weight: bolder;">N</span>a variedade de serviços prestados e executados pela Serralheria Mancini estão a fabricação de: XXXXXXXXXXXXXXXX XXXXXXXXXXXXXX XXXXXXXXXXX XXXXXXXXXXXXXX XXXXXXXXXXXX XXXXXXX XXXXXXXXXXX XXXXXXXXXXXXX e outras centenas de produtos que podem ser fabricados com ferro para atender sua demanda e seu projeto.</p>
+
+<p style="width: 95%; margin: 0 auto; margin-top:10px;"><span style="font-weight: bolder;">B</span>uscando sempre a inovação no mercado do segmento de serralheria, temos sempre como objetivo profissional ser parceiros em realizações, e ser a melhor opção na execução de projetos que demandam serviços de serralheria, para isso contamos com uma equipe altamente qualificada, garantindo assim conforto e segurança aos nossos clientes, nossa matéria prima são de primeira linha e todos os produtos passam por uma vasta verificação de qualidade.</p>
+
+<p style="width: 95%; margin: 0 auto; margin-top: 10px;"><span style="font-weight: bolder;">A</span> conquista da confiança e respeito de nossos clientes, é fruto de um relacionamento profissional, atrelado assim aos melhores serviços e produtos, com acabamento arrojado, sofisticado, oferencendo ao seu projeto ar de inovação, e isso ainda junto com os melhores preços e prazos de entrega fazem da Serralheria Mancini ser a melhor Serralheria de Sorocaba e região.</p>
+
+<p style="width: 95%; margin: 0 auto; margin-top: 10px;"><span style="font-weight: bolder;">C</span>onsulte-nos, vamos oferecer os melhores preços e prazos para atender seu projeto.</p>
+
+<p style="width: 95%; margin: 0 auto; margin-top: 10px;"><span style="font-weight: bolder;">S</span>olicite agora mesmo um orçamento sem compromisso, atendemos Sorocaba e região!</p>
+</div>
